@@ -1,3 +1,3 @@
-# Fingerprint-Recgonition 
+# Fingerprint-Recognition 
 
 This project is using minutiae and cnn
